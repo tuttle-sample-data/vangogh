@@ -81,7 +81,7 @@
                 <lb n="16" xml:id="l-16"/>
 <ab rend="indent">Gauguin is still at Pont Aven <lb n="17" xml:id="l-17"/>
                     <supplied>a</supplied>nd suffering of his liver complaint <lb n="18" xml:id="l-18"/>
-                    <supplied>bu</supplied>t working nevertheless</ab>
+                    <supplied>buFOO</supplied>t working nevertheless</ab>
 <vg:whiteline/>
 <div type="textualNotes">
  <note target="l-12" n="12"> itself – &lt; itself </note>
